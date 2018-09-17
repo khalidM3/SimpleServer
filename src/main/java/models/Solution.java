@@ -1,7 +1,7 @@
 package models;
 
-/**
- * Created by khalidmohamud on 9/15/18.
- */
 public class Solution {
+    public String content;
+    public int upvotes;
+    public int downvotes;
 }
