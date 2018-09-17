@@ -1,7 +1,11 @@
 package models;
 
-/**
- * Created by khalidmohamud on 9/15/18.
- */
 public class Problem {
+    public String content;
+    public int subCount;
+    public int subProbCount;
+
+    public String toString() {
+        return content;
+    }
 }
